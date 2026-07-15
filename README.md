@@ -1,3 +1,8 @@
+# HF and Metacyclic Primality Testing Repository
+Authors:
+Samantha Allen (Duquesne University)
+Charles Livingston (Indiana University)
+
 # This repository currently contains two files:
 
 (1) HFandMetacyclicPrimeness.sage (described below)
