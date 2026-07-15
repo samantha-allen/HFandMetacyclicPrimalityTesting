@@ -1,6 +1,12 @@
 # HFandMetacyclicPrimeness.sage
+
+#Authors:
+#    Samantha Allen (Duquesne University)
+#    Charles Livingston (Indiana University)
+
 # Runs the full primeness-testing procedure of Section 10.2 ("The general
-# approach") on a single, given knot, using the various functions found below in the "computation" section. This test: enumerate positive-symmetric
+# approach") of Allen-Livingston on a single, given knot, using the various 
+functions found below in the "computation" section. This test: enumerate positive-symmetric
 # factorizations, prunes with Jones/HOMFLY, prunes with homology-order
 # consistency on p-fold branched covers, then prunes with metacyclic
 # Betti-number obstructions (both the d1 != d2 and d1 = d2 cases).
