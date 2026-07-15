@@ -1,3 +1,8 @@
+# This repository currently contains two files:
+
+(1) HFandMetacyclicPrimeness.sage (described below)
+(2) UseExamples.ipynb (instructions for basic use-cases)
+
 # HFandMetacyclicPrimeness.sage
 
 A single-file SageMath script that tests whether a knot is prime, given its
