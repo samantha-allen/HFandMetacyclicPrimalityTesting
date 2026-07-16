@@ -12,7 +12,7 @@
 # Betti-number obstructions (both the d1 != d2 and d1 = d2 cases).
 #
 # Usage:
-#   load('test_generic_knot.sage')
+#   load('HFandMetacyclicPrimeness.sage')
 #   result = HFandMetaPrimeTest([[4,2,5,1],[8,6,1,5],[6,3,7,4],[2,7,3,8]])   # PD code
 #   result = HFandMetaPrimeTest('DT: [(4,6,2)]')                            # DT code
 #   result = HFandMetaPrimeTest(pd, primes=[2,3,5,7,11,13], verbose=True)   # go further
